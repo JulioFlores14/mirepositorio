@@ -1,0 +1,7 @@
+panel
+------
+-incluir logo
+-opciojnes de perfil y salir
+-barra de opciones lateral
+-el esatdo de la infor,macion o productos
+-
